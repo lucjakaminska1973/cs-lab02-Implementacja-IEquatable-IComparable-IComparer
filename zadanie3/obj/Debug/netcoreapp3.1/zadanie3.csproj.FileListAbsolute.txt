@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Kserokopiarka\zadanie3\bin\Debug\netcoreapp3.1\zadanie3.exe
+C:\Users\Administrator\source\repos\Kserokopiarka\zadanie3\bin\Debug\netcoreapp3.1\zadanie3.deps.json
+C:\Users\Administrator\source\repos\Kserokopiarka\zadanie3\bin\Debug\netcoreapp3.1\zadanie3.runtimeconfig.json
+C:\Users\Administrator\source\repos\Kserokopiarka\zadanie3\bin\Debug\netcoreapp3.1\zadanie3.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Kserokopiarka\zadanie3\bin\Debug\netcoreapp3.1\zadanie3.dll
+C:\Users\Administrator\source\repos\Kserokopiarka\zadanie3\bin\Debug\netcoreapp3.1\zadanie3.pdb
+C:\Users\Administrator\source\repos\Kserokopiarka\zadanie3\bin\Debug\netcoreapp3.1\ver1.dll
+C:\Users\Administrator\source\repos\Kserokopiarka\zadanie3\bin\Debug\netcoreapp3.1\ver1.pdb
+C:\Users\Administrator\source\repos\Kserokopiarka\zadanie3\obj\Debug\netcoreapp3.1\zadanie3.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Kserokopiarka\zadanie3\obj\Debug\netcoreapp3.1\zadanie3.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Kserokopiarka\zadanie3\obj\Debug\netcoreapp3.1\zadanie3.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Kserokopiarka\zadanie3\obj\Debug\netcoreapp3.1\zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Kserokopiarka\zadanie3\obj\Debug\netcoreapp3.1\zadanie3.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Kserokopiarka\zadanie3\obj\Debug\netcoreapp3.1\zadanie3.dll
+C:\Users\Administrator\source\repos\Kserokopiarka\zadanie3\obj\Debug\netcoreapp3.1\zadanie3.pdb
+C:\Users\Administrator\source\repos\Kserokopiarka\zadanie3\obj\Debug\netcoreapp3.1\zadanie3.genruntimeconfig.cache

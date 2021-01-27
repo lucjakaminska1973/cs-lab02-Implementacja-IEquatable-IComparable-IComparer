@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\Kserokopiarka\ver1\bin\Debug\netstandard2.0\ver1.deps.json
+C:\Users\Administrator\source\repos\Kserokopiarka\ver1\bin\Debug\netstandard2.0\ver1.dll
+C:\Users\Administrator\source\repos\Kserokopiarka\ver1\bin\Debug\netstandard2.0\ver1.pdb
+C:\Users\Administrator\source\repos\Kserokopiarka\ver1\obj\Debug\netstandard2.0\ver1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Kserokopiarka\ver1\obj\Debug\netstandard2.0\ver1.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Kserokopiarka\ver1\obj\Debug\netstandard2.0\ver1.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Kserokopiarka\ver1\obj\Debug\netstandard2.0\ver1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Kserokopiarka\ver1\obj\Debug\netstandard2.0\ver1.dll
+C:\Users\Administrator\source\repos\Kserokopiarka\ver1\obj\Debug\netstandard2.0\ver1.pdb
